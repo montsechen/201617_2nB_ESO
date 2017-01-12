@@ -2,7 +2,7 @@
     
 <widget xmlns   = "http://www.w3.org/ns/widgets"
         xmlns:gap   = "http://phonegap.com/ns/1.0"
-        id          = "cat.numancia.sistema_solar_scb"
+        id          = "cat.numancia.jocmobil_MCL"
         versionCode = "1" 
         version     = "0.0.01" >
 	
@@ -10,14 +10,14 @@
 
 	
 
-   <name>Sistema Solar</name>
+   <name>Joc 3r ESO</name>
 
    <description>
-       Sistema Solar de 2n d'ESO B fet per Sergi Curtu
+     Un joc de mobil fet per Montse Chen Lin 3r ESO A
     </description>
 
-    <author href="https://numancia.cat/intranet" email="sergi.curtu@numancia.cat">
-       Sergi Curtu
+    <author href="https://numancia.cat/intranet" email="jchen35@iesnumancia.cat">
+       Montse Chen Lin
     </author>
 
 	<content src="index.html"/>
